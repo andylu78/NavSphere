@@ -23,6 +23,14 @@
           "description": "",
           "icon": "/assets/favicon_1754530887336.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754530953096_b9hq76a51",
+          "title": "继续教育",
+          "href": "http://teacher.jsfz.cqedu.cn/login?logout",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
