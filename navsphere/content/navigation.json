@@ -17,6 +17,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1754530752470",
+      "title": "网络资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
