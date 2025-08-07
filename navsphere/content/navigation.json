@@ -31,6 +31,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754530982290_l7c6o7ar0",
+          "title": "中小学智慧教育",
+          "href": "https://basic.smartedu.cn/teacherTrainingNav",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
