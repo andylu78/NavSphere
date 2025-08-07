@@ -15,7 +15,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754530907657_ms5hje0ma",
+          "title": "云阅卷",
+          "href": "https://yyj.wanpeng.com/index",
+          "description": "",
+          "icon": "/assets/favicon_1754530887336.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
