@@ -39,6 +39,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754531009079_ludsr2elh",
+          "title": "新教材培训",
+          "href": "https://wp.pep.com.cn/web/index.php?/login/index/165/1/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
